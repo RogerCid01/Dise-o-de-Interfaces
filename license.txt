@@ -1,0 +1,11 @@
+Model Information:
+* title:	(Halo 3) The God Rat
+* source:	https://sketchfab.com/3d-models/halo-3-the-god-rat-e1853357d88545c9ab33e069641bc65c
+* author:	Bylan (https://sketchfab.com/Bylan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "(Halo 3) The God Rat" (https://sketchfab.com/3d-models/halo-3-the-god-rat-e1853357d88545c9ab33e069641bc65c) by Bylan (https://sketchfab.com/Bylan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
